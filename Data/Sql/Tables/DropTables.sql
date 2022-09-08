@@ -1,0 +1,9 @@
+Drop table if exists School.Person;
+Drop table if exists School.Student;
+Drop table if exists School.Teacher;
+Drop table if exists School.SubmittedAssignments;
+Drop table if exists School.Enrollment;
+Drop table if exists School.Course;
+Drop table if exists School.Assignments;
+Drop table if exists School.AssignmentCategories;
+Drop table if exists School.Semester;
